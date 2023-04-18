@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of your software}
 
-{Describe your purpose for creating this software.}
+{This software is a test of C#.}
+
+{My purpose in creating this software is to show I know how to work in C#.}
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,12 +12,12 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{I developed this software in Visual Studio Code and ran it in my computer's terminal.}
 
-{Describe the programming language that you used}
+{C# is a programming language used in object-oriented programming.
+Such programming includes abstraction, encapsulation, inheritance, and polymorphism. When running the program, it simply displays what is written in the Console.WriteLine function.}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/)
